@@ -28,4 +28,4 @@ You can follow these general instructions to make a website with GitHub Pages.
 6. Open browser to the page.
 
 
-![GitHub image](https://imgur.com/evSwZMw)
+![GitHub-image](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
