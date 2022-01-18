@@ -28,4 +28,4 @@ You can follow these general instructions to make a website with GitHub Pages.
 6. Open browser to the page.
 
 
-![GitHub image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fdanielmaldonado.com.ar%2Fwp-content%2Fuploads%2F2019%2F05%2Fgithub-octocat.png&imgrefurl=https%3A%2F%2Fdanielmaldonado.com.ar%2Fprogramacion%2Fcomo-cerrar-un-issue-en-github%2F&tbnid=Hm7x3KXilRreSM&vet=12ahUKEwiD3cqz2rv1AhXOMrkGHcDjAycQMygCegUIARDPAQ..i&docid=cQv7hgo5Pie_kM&w=1200&h=630&itg=1&q=github%20images&ved=2ahUKEwiD3cqz2rv1AhXOMrkGHcDjAycQMygCegUIARDPAQ)
+![GitHub image](https://imgur.com/evSwZMw)
